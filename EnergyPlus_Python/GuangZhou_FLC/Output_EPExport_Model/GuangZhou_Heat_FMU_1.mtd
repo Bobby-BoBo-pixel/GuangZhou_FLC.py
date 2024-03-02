@@ -1,0 +1,678 @@
+
+ Meters for 13,MASTER LIGHT:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MASTER [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:MASTER [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 86,SECONDARY ONE LIGHT:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SECONDARY ONE [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SECONDARY ONE [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 111,SECONDARY TWO LIGHT:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SECONDARY TWO [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SECONDARY TWO [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 136,PARLOR LIGHT:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:PARLOR [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:PARLOR [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 161,TOILET ONE LIGHT:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:TOILET ONE [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:TOILET ONE [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 186,KITCHEN LIGHT:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:KITCHEN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:KITCHEN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 211,TOILET TWO LIGHT:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:TOILET TWO [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:TOILET TWO [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 236,CORRIDOR LIGHT:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:CORRIDOR [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:CORRIDOR [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 261,MASTER THREE ROOM EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MASTER [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:MASTER [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 298,SECONDARY ONE THREE ROOM EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SECONDARY ONE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:SECONDARY ONE [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 311,SECONDARY TWO THREE ROOM EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SECONDARY TWO [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:SECONDARY TWO [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 324,PARLOR EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:PARLOR [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:PARLOR [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 337,TOILET ONE EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:TOILET ONE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:TOILET ONE [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 350,KITCHEN EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:KITCHEN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:KITCHEN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 363,TOILET TWO EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:TOILET TWO [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:TOILET TWO [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 376,COORIDOR EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:CORRIDOR [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:CORRIDOR [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 405,CORRIDOR:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CORRIDOR [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:CORRIDOR [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 478,CORRIDOR:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CORRIDOR [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:CORRIDOR [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 516,KITCHEN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:KITCHEN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:KITCHEN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 541,KITCHEN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:KITCHEN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:KITCHEN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 555,MASTER:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MASTER [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:MASTER [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 580,MASTER:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MASTER [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:MASTER [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 594,PARLOR:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:PARLOR [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:PARLOR [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 619,PARLOR:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:PARLOR [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:PARLOR [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 633,SECONDARY ONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SECONDARY ONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:SECONDARY ONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 658,SECONDARY ONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SECONDARY ONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:SECONDARY ONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 672,SECONDARY TWO:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SECONDARY TWO [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:SECONDARY TWO [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 697,SECONDARY TWO:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SECONDARY TWO [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:SECONDARY TWO [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 711,TOILET ONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:TOILET ONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:TOILET ONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 736,TOILET ONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:TOILET ONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:TOILET ONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 750,TOILET TWO:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:TOILET TWO [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:TOILET TWO [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 775,TOILET TWO:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:TOILET TWO [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:TOILET TWO [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 789,PARLOR HVAC:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+  OnMeter=General:Heating:DistrictHeating [J]
+
+ Meters for 838,PARLOR HVAC:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+  OnMeter=General:Cooling:DistrictCooling [J]
+
+ Meters for 895,MASTER HVAC:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+  OnMeter=General:Heating:DistrictHeating [J]
+
+ Meters for 896,MASTER HVAC:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+  OnMeter=General:Cooling:DistrictCooling [J]
+
+ Meters for 905,SECONDARY ONE HVAC:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+  OnMeter=General:Heating:DistrictHeating [J]
+
+ Meters for 906,SECONDARY ONE HVAC:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+  OnMeter=General:Cooling:DistrictCooling [J]
+
+ Meters for 915,SECONDARY TWO HVAC:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+  OnMeter=General:Heating:DistrictHeating [J]
+
+ Meters for 916,SECONDARY TWO HVAC:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+  OnMeter=General:Cooling:DistrictCooling [J]
+
+ Meters for 925,Whole Building:Facility Total Purchased Electricity Energy [J]
+  OnMeter=ElectricityPurchased:Facility [J]
+  OnMeter=ElectricityPurchased:Plant [J]
+  OnMeter=Cogeneration:ElectricityPurchased [J]
+  OnMeter=General:Cogeneration:ElectricityPurchased [J]
+
+ Meters for 974,Whole Building:Facility Total Surplus Electricity Energy [J]
+  OnMeter=ElectricitySurplusSold:Facility [J]
+  OnMeter=ElectricitySurplusSold:Plant [J]
+  OnMeter=Cogeneration:ElectricitySurplusSold [J]
+  OnMeter=General:Cogeneration:ElectricitySurplusSold [J]
+
+ Meters for 1023,Whole Building:Facility Net Purchased Electricity Energy [J]
+  OnMeter=ElectricityNet:Facility [J]
+  OnMeter=ElectricityNet:Plant [J]
+  OnMeter=Cogeneration:ElectricityNet [J]
+  OnMeter=General:Cogeneration:ElectricityNet [J]
+
+ Meters for 1108,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 1133,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 1134,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  MASTER LIGHT:Lights Electricity Energy
+  SECONDARY ONE LIGHT:Lights Electricity Energy
+  SECONDARY TWO LIGHT:Lights Electricity Energy
+  PARLOR LIGHT:Lights Electricity Energy
+  TOILET ONE LIGHT:Lights Electricity Energy
+  KITCHEN LIGHT:Lights Electricity Energy
+  TOILET TWO LIGHT:Lights Electricity Energy
+  CORRIDOR LIGHT:Lights Electricity Energy
+  MASTER THREE ROOM EQUIP:Electric Equipment Electricity Energy
+  SECONDARY ONE THREE ROOM EQUIP:Electric Equipment Electricity Energy
+  SECONDARY TWO THREE ROOM EQUIP:Electric Equipment Electricity Energy
+  PARLOR EQUIP:Electric Equipment Electricity Energy
+  TOILET ONE EQUIP:Electric Equipment Electricity Energy
+  KITCHEN EQUIP:Electric Equipment Electricity Energy
+  TOILET TWO EQUIP:Electric Equipment Electricity Energy
+  COORIDOR EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
+  MASTER LIGHT:Lights Electricity Energy
+  SECONDARY ONE LIGHT:Lights Electricity Energy
+  SECONDARY TWO LIGHT:Lights Electricity Energy
+  PARLOR LIGHT:Lights Electricity Energy
+  TOILET ONE LIGHT:Lights Electricity Energy
+  KITCHEN LIGHT:Lights Electricity Energy
+  TOILET TWO LIGHT:Lights Electricity Energy
+  CORRIDOR LIGHT:Lights Electricity Energy
+  MASTER THREE ROOM EQUIP:Electric Equipment Electricity Energy
+  SECONDARY ONE THREE ROOM EQUIP:Electric Equipment Electricity Energy
+  SECONDARY TWO THREE ROOM EQUIP:Electric Equipment Electricity Energy
+  PARLOR EQUIP:Electric Equipment Electricity Energy
+  TOILET ONE EQUIP:Electric Equipment Electricity Energy
+  KITCHEN EQUIP:Electric Equipment Electricity Energy
+  TOILET TWO EQUIP:Electric Equipment Electricity Energy
+  COORIDOR EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=Electricity:Zone:MASTER [J], ResourceType=Electricity, Group=Zone, contents are:
+  MASTER LIGHT:Lights Electricity Energy
+  MASTER THREE ROOM EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  MASTER LIGHT:Lights Electricity Energy
+  SECONDARY ONE LIGHT:Lights Electricity Energy
+  SECONDARY TWO LIGHT:Lights Electricity Energy
+  PARLOR LIGHT:Lights Electricity Energy
+  TOILET ONE LIGHT:Lights Electricity Energy
+  KITCHEN LIGHT:Lights Electricity Energy
+  TOILET TWO LIGHT:Lights Electricity Energy
+  CORRIDOR LIGHT:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:MASTER [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  MASTER LIGHT:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  MASTER LIGHT:Lights Electricity Energy
+  SECONDARY ONE LIGHT:Lights Electricity Energy
+  SECONDARY TWO LIGHT:Lights Electricity Energy
+  PARLOR LIGHT:Lights Electricity Energy
+  TOILET ONE LIGHT:Lights Electricity Energy
+  KITCHEN LIGHT:Lights Electricity Energy
+  TOILET TWO LIGHT:Lights Electricity Energy
+  CORRIDOR LIGHT:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:SECONDARY ONE [J], ResourceType=Electricity, Group=Zone, contents are:
+  SECONDARY ONE LIGHT:Lights Electricity Energy
+  SECONDARY ONE THREE ROOM EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:SECONDARY ONE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  SECONDARY ONE LIGHT:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:SECONDARY TWO [J], ResourceType=Electricity, Group=Zone, contents are:
+  SECONDARY TWO LIGHT:Lights Electricity Energy
+  SECONDARY TWO THREE ROOM EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:SECONDARY TWO [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  SECONDARY TWO LIGHT:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:PARLOR [J], ResourceType=Electricity, Group=Zone, contents are:
+  PARLOR LIGHT:Lights Electricity Energy
+  PARLOR EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:PARLOR [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  PARLOR LIGHT:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:TOILET ONE [J], ResourceType=Electricity, Group=Zone, contents are:
+  TOILET ONE LIGHT:Lights Electricity Energy
+  TOILET ONE EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:TOILET ONE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  TOILET ONE LIGHT:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:KITCHEN [J], ResourceType=Electricity, Group=Zone, contents are:
+  KITCHEN LIGHT:Lights Electricity Energy
+  KITCHEN EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:KITCHEN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  KITCHEN LIGHT:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:TOILET TWO [J], ResourceType=Electricity, Group=Zone, contents are:
+  TOILET TWO LIGHT:Lights Electricity Energy
+  TOILET TWO EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:TOILET TWO [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  TOILET TWO LIGHT:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:CORRIDOR [J], ResourceType=Electricity, Group=Zone, contents are:
+  CORRIDOR LIGHT:Lights Electricity Energy
+  COORIDOR EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:CORRIDOR [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  CORRIDOR LIGHT:Lights Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  MASTER THREE ROOM EQUIP:Electric Equipment Electricity Energy
+  SECONDARY ONE THREE ROOM EQUIP:Electric Equipment Electricity Energy
+  SECONDARY TWO THREE ROOM EQUIP:Electric Equipment Electricity Energy
+  PARLOR EQUIP:Electric Equipment Electricity Energy
+  TOILET ONE EQUIP:Electric Equipment Electricity Energy
+  KITCHEN EQUIP:Electric Equipment Electricity Energy
+  TOILET TWO EQUIP:Electric Equipment Electricity Energy
+  COORIDOR EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:MASTER [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  MASTER THREE ROOM EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  MASTER THREE ROOM EQUIP:Electric Equipment Electricity Energy
+  SECONDARY ONE THREE ROOM EQUIP:Electric Equipment Electricity Energy
+  SECONDARY TWO THREE ROOM EQUIP:Electric Equipment Electricity Energy
+  PARLOR EQUIP:Electric Equipment Electricity Energy
+  TOILET ONE EQUIP:Electric Equipment Electricity Energy
+  KITCHEN EQUIP:Electric Equipment Electricity Energy
+  TOILET TWO EQUIP:Electric Equipment Electricity Energy
+  COORIDOR EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:SECONDARY ONE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  SECONDARY ONE THREE ROOM EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:SECONDARY TWO [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  SECONDARY TWO THREE ROOM EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:PARLOR [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  PARLOR EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:TOILET ONE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  TOILET ONE EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:KITCHEN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  KITCHEN EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:TOILET TWO [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  TOILET TWO EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:CORRIDOR [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  COORIDOR EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  CORRIDOR:Zone Air System Sensible Heating Energy
+  CORRIDOR:Zone Air System Sensible Cooling Energy
+  KITCHEN:Zone Air System Sensible Heating Energy
+  KITCHEN:Zone Air System Sensible Cooling Energy
+  MASTER:Zone Air System Sensible Heating Energy
+  MASTER:Zone Air System Sensible Cooling Energy
+  PARLOR:Zone Air System Sensible Heating Energy
+  PARLOR:Zone Air System Sensible Cooling Energy
+  SECONDARY ONE:Zone Air System Sensible Heating Energy
+  SECONDARY ONE:Zone Air System Sensible Cooling Energy
+  SECONDARY TWO:Zone Air System Sensible Heating Energy
+  SECONDARY TWO:Zone Air System Sensible Cooling Energy
+  TOILET ONE:Zone Air System Sensible Heating Energy
+  TOILET ONE:Zone Air System Sensible Cooling Energy
+  TOILET TWO:Zone Air System Sensible Heating Energy
+  TOILET TWO:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  CORRIDOR:Zone Air System Sensible Heating Energy
+  CORRIDOR:Zone Air System Sensible Cooling Energy
+  KITCHEN:Zone Air System Sensible Heating Energy
+  KITCHEN:Zone Air System Sensible Cooling Energy
+  MASTER:Zone Air System Sensible Heating Energy
+  MASTER:Zone Air System Sensible Cooling Energy
+  PARLOR:Zone Air System Sensible Heating Energy
+  PARLOR:Zone Air System Sensible Cooling Energy
+  SECONDARY ONE:Zone Air System Sensible Heating Energy
+  SECONDARY ONE:Zone Air System Sensible Cooling Energy
+  SECONDARY TWO:Zone Air System Sensible Heating Energy
+  SECONDARY TWO:Zone Air System Sensible Cooling Energy
+  TOILET ONE:Zone Air System Sensible Heating Energy
+  TOILET ONE:Zone Air System Sensible Cooling Energy
+  TOILET TWO:Zone Air System Sensible Heating Energy
+  TOILET TWO:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:CORRIDOR [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  CORRIDOR:Zone Air System Sensible Heating Energy
+  CORRIDOR:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  CORRIDOR:Zone Air System Sensible Heating Energy
+  KITCHEN:Zone Air System Sensible Heating Energy
+  MASTER:Zone Air System Sensible Heating Energy
+  PARLOR:Zone Air System Sensible Heating Energy
+  SECONDARY ONE:Zone Air System Sensible Heating Energy
+  SECONDARY TWO:Zone Air System Sensible Heating Energy
+  TOILET ONE:Zone Air System Sensible Heating Energy
+  TOILET TWO:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:CORRIDOR [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  CORRIDOR:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  CORRIDOR:Zone Air System Sensible Heating Energy
+  KITCHEN:Zone Air System Sensible Heating Energy
+  MASTER:Zone Air System Sensible Heating Energy
+  PARLOR:Zone Air System Sensible Heating Energy
+  SECONDARY ONE:Zone Air System Sensible Heating Energy
+  SECONDARY TWO:Zone Air System Sensible Heating Energy
+  TOILET ONE:Zone Air System Sensible Heating Energy
+  TOILET TWO:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  CORRIDOR:Zone Air System Sensible Cooling Energy
+  KITCHEN:Zone Air System Sensible Cooling Energy
+  MASTER:Zone Air System Sensible Cooling Energy
+  PARLOR:Zone Air System Sensible Cooling Energy
+  SECONDARY ONE:Zone Air System Sensible Cooling Energy
+  SECONDARY TWO:Zone Air System Sensible Cooling Energy
+  TOILET ONE:Zone Air System Sensible Cooling Energy
+  TOILET TWO:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:CORRIDOR [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  CORRIDOR:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  CORRIDOR:Zone Air System Sensible Cooling Energy
+  KITCHEN:Zone Air System Sensible Cooling Energy
+  MASTER:Zone Air System Sensible Cooling Energy
+  PARLOR:Zone Air System Sensible Cooling Energy
+  SECONDARY ONE:Zone Air System Sensible Cooling Energy
+  SECONDARY TWO:Zone Air System Sensible Cooling Energy
+  TOILET ONE:Zone Air System Sensible Cooling Energy
+  TOILET TWO:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:KITCHEN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  KITCHEN:Zone Air System Sensible Heating Energy
+  KITCHEN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:KITCHEN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  KITCHEN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:KITCHEN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  KITCHEN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:MASTER [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  MASTER:Zone Air System Sensible Heating Energy
+  MASTER:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:MASTER [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  MASTER:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:MASTER [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  MASTER:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:PARLOR [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  PARLOR:Zone Air System Sensible Heating Energy
+  PARLOR:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:PARLOR [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  PARLOR:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:PARLOR [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  PARLOR:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:SECONDARY ONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  SECONDARY ONE:Zone Air System Sensible Heating Energy
+  SECONDARY ONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:SECONDARY ONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  SECONDARY ONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:SECONDARY ONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  SECONDARY ONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:SECONDARY TWO [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  SECONDARY TWO:Zone Air System Sensible Heating Energy
+  SECONDARY TWO:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:SECONDARY TWO [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  SECONDARY TWO:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:SECONDARY TWO [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  SECONDARY TWO:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:TOILET ONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  TOILET ONE:Zone Air System Sensible Heating Energy
+  TOILET ONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:TOILET ONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  TOILET ONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:TOILET ONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  TOILET ONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:TOILET TWO [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  TOILET TWO:Zone Air System Sensible Heating Energy
+  TOILET TWO:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:TOILET TWO [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  TOILET TWO:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:TOILET TWO [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  TOILET TWO:Zone Air System Sensible Cooling Energy
+
+ For Meter=DistrictHeating:Facility [J], ResourceType=DistrictHeating, contents are:
+  PARLOR HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+  MASTER HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+  SECONDARY ONE HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+  SECONDARY TWO HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=DistrictHeating:HVAC [J], ResourceType=DistrictHeating, Group=HVAC, contents are:
+  PARLOR HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+  MASTER HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+  SECONDARY ONE HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+  SECONDARY TWO HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=Heating:DistrictHeating [J], ResourceType=DistrictHeating, EndUse=Heating, contents are:
+  PARLOR HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+  MASTER HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+  SECONDARY ONE HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+  SECONDARY TWO HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=General:Heating:DistrictHeating [J], ResourceType=DistrictHeating, EndUse=Heating, contents are:
+  PARLOR HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+  MASTER HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+  SECONDARY ONE HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+  SECONDARY TWO HVAC:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=DistrictCooling:Facility [J], ResourceType=DistrictCooling, contents are:
+  PARLOR HVAC:Zone Ideal Loads Supply Air Total Cooling Energy
+  MASTER HVAC:Zone Ideal Loads Supply Air Total Cooling Energy
+  SECONDARY ONE HVAC:Zone Ideal Loads Supply Air Total Cooling Energy
+  SECONDARY TWO HVAC:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=DistrictCooling:HVAC [J], ResourceType=DistrictCooling, Group=HVAC, 

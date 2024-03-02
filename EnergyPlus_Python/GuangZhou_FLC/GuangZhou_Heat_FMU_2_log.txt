@@ -1,0 +1,34 @@
+FMIL: module = FMILIB, log level = 5: Allocating FMIL context
+FMIL: module = FMILIB, log level = 5: Parsing model description XML
+FMIL: module = FMI2XML, log level = 5: Parsing XML element fmiModelDescription
+FMIL: module = FMI2XML, log level = 5: Parsing XML element CoSimulation
+FMIL: module = FMI2XML, log level = 5: Parsing XML element ModelVariables
+FMIL: module = FMI2XML, log level = 5: Building alias index
+FMIL: module = FMI2XML, log level = 5: Parsing XML element ModelStructure
+FMIL: module = FMI2XML, log level = 5: Parsing XML element Outputs
+FMIL: module = FMILIB, log level = 5: Parsing finished successfully
+FMIL: module = FMILIB, log level = 4: Loading 'win64' binary with 'default' platform types
+FMIL: module = FMICAPI, log level = 5: Loaded FMU binary from C:\Users\86183\AppData\Local\Temp\JModelica.org\jm_tmpidmhuyx6\binaries\win64\GuangZhou_Heat_FMU_2.dll
+FMIL: module = FMICAPI, log level = 5: Loading functions for the co-simulation interface
+FMIL: module = FMILIB, log level = 5: Successfully loaded all the interface functions
+FMIL: module = Model, log level = 4: [ok][FMU status:OK] fmi2Instantiate: The Resource location of FMU with instance name Model is file:///C:/Users/86183/AppData/Local/Temp/JModelica.org/jm_tmpidmhuyx6/resources.
+
+FMIL: module = Model, log level = 3: [warning][FMU status:Warning] fmi2Instantiate: Argument loggingOn is set to 1
+. This is not supported. loggingOn will default to '0'.
+
+FMIL: module = Model, log level = 4: [ok][FMU status:OK] The current working directory is F:\Onedrive\OneDrive - zju.edu.cn\Sync\Python_Project\Reinforcement Learning\RL\EnergyPlus_Python\GuangZhou
+
+FMIL: module = Model, log level = 4: [ok][FMU status:OK] fmi2Instantiate: Path to fmuUnzipLocation is not ///C:/Users/86183/AppData/Local/Temp/JModelica.org/jm_tmpidmhuyx6.
+
+FMIL: module = Model, log level = 4: [ok][FMU status:OK] fmi2Instantiate: Path to fmuUnzipLocation is not //C:/Users/86183/AppData/Local/Temp/JModelica.org/jm_tmpidmhuyx6.
+
+FMIL: module = Model, log level = 4: [ok][FMU status:OK] fmi2Instantiate: Path to fmuUnzipLocation is not /C:/Users/86183/AppData/Local/Temp/JModelica.org/jm_tmpidmhuyx6.
+
+FMIL: module = Model, log level = 4: [ok][FMU status:OK] fmi2Instantiate: Path to fmuUnzipLocation C:/Users/86183/AppData/Local/Temp/JModelica.org/jm_tmpidmhuyx6\
+
+FMIL: module = Model, log level = 4: [ok][FMU status:OK] fmi2Instantiate: Path to fmuResourceLocation C:/Users/86183/AppData/Local/Temp/JModelica.org/jm_tmpidmhuyx6\resources\
+
+FMIL: module = Model, log level = 4: [ok][FMU status:OK] Command executes to copy content of resources folder: xcopy "C:\Users\86183\AppData\Local\Temp\JModelica.org\jm_tmpidmhuyx6\resources\"variables.cfg "F:\Onedrive\OneDrive - zju.edu.cn\Sync\Python_Project\Reinforcement Learning\RL\EnergyPlus_Python\GuangZhou\Output_EPExport_Model\" /Y /I
+
+FMIL: module = Model, log level = 4: [ok][FMU status:OK] fmi2Instantiate: Instantiation of Model succeded.
+

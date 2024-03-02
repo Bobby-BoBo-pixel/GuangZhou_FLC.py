@@ -1,0 +1,8 @@
+FMIL: module = Model, log level = 4: [ok][FMU status:OK] fmi2Instantiate: Path to model description file is C:\Users\86183\AppData\Local\Temp\JModelica.org\jm_tmpo3opjohr\modelDescription.xml.
+
+FMIL: module = Model, log level = 4: [ok][FMU status:OK] fmi2Instantiate: The FMU modelIdentifier is GuangZhou_Heat_FMU_1.
+
+FMIL: module = Model, log level = 4: [ok][FMU status:OK] fmi2Instantiate: The FMU modelGUID is f2f465c4cf94e5c45ac403faf81eb5c8.
+
+FMIL: module = Model, log level = 4: [ok][FMU status:OK] fmi2Instantiate: Slave Model is instantiated.
+
